@@ -22,9 +22,6 @@
     justify-content:space-between; 
   
   }
-  .container-3{
-    display:flex;
-  }
  }
 
 .container-1 div, .container-2 div, .container-3 div{
@@ -35,6 +32,11 @@
 .container-2-box{
   /*Use instead of width with flex*/
   flex-basis:27%;
+}
+
+.container-3{
+  display:flex;
+  flex-wrap:wrap;
 }
 
 .container-3-box{
