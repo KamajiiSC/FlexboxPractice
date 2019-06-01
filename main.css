@@ -5,14 +5,19 @@
   align-items:flex-center; Align boxes to center of content
   align-items:flex-end; Align boxes to bottom
   align-items:stretch; default alignment
-  flex-direction: column;
+ 
+  flex-direction: column; 
   */
   
 }
 
-.container-1 div{
+.container-1 div, .container-2 div{
   border:1px #ccc solid;
   padding:10px;
+}
+
+.container-2{
+  display:flex;
 }
 
 .box-1{
@@ -29,3 +34,4 @@
   flex:1;
   order:3;
 }
+
