@@ -21,6 +21,7 @@
   justify-content:flex-start; Default.
   justify-content:flex-end; Justifies right.
   justifycontent:center; Justifies center.
+  justifycontent:space-around; like space-between but also margin on the outsides.
   */
   display:flex;
   justify-content:space-between; 
