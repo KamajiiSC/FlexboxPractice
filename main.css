@@ -19,10 +19,11 @@
 .container-2{
   display:flex;
   /*
-  justif-content:flex-start; Default.
-  justif-content:flex-end; Justifies right.
-  justif-content:flex-center; Justifies center.
+  justify-content:flex-start; Default.
+  justify-content:flex-end; Justifies right.
+  justifycontent:center; Justifies center.
   */
+  justify-content:space-between; 
 
 }
 
