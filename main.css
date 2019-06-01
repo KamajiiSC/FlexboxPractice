@@ -22,7 +22,9 @@
     justify-content:space-between; 
   
   }
-  
+  .container-3{
+    display:flex;
+  }
  }
 
 .container-1 div, .container-2 div, .container-3 div{
