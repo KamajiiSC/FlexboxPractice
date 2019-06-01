@@ -2,7 +2,9 @@
   display:flex;
   /*
   align-items:flex-start; Align boxes to top of content
+  align-items:flex-center; Align boxes to center of content
   align-items:flex-end; Align boxes to bottom
+  align-items:stretch; default alignment
   */
 }
 
