@@ -17,14 +17,18 @@
 }
 
 .container-2{
-  display:flex;
   /*
   justify-content:flex-start; Default.
   justify-content:flex-end; Justifies right.
   justifycontent:center; Justifies center.
   */
+  display:flex;
   justify-content:space-between; 
 
+}
+
+.container-2-box{
+  width:27%;
 }
 
 .box-1{
