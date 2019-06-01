@@ -18,6 +18,10 @@
 
 .container-2{
   display:flex;
+  /*
+  justif-content:flex-start; Default.
+  justif-content:flex-end; Justifies right.
+  */
 }
 
 .box-1{
