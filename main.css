@@ -5,7 +5,9 @@
   align-items:flex-center; Align boxes to center of content
   align-items:flex-end; Align boxes to bottom
   align-items:stretch; default alignment
+  flex-direction: column;
   */
+  
 }
 
 .container-1 div{
