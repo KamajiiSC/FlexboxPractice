@@ -29,7 +29,8 @@
 }
 
 .container-2-box{
-  width:27%;
+  /*Use instead of width with flex*/
+  flex-basis:27%;
 }
 
 .box-1{
